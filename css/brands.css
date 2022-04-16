@@ -87,13 +87,13 @@
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* Slack */
-.button.button-slack {
+/* Whatsapp */
+.button.button-drive {
   color: #FFFFFF;
   background-color: #7b16ff }
-.button.button-slack:hover,
-.button.button-slack:hover:before {
-  content: 'En esta comunidad, vas a poder conectarte para charlar con otros Pelades sobre temas de tecnologías como las que hablo en el canal, y consultar dudas y ayudar a los demás!';
+.button.button-drive:hover,
+.button.button-drive:hover:before {
+  content: 'En este boton encontras el contacto directo de whatsappWeb';
   white-space: initial; }
 
 /* Kit */
